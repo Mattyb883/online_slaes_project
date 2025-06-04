@@ -72,14 +72,13 @@ Visualized sales performance by category, region, and time:
 - **R² Score**: 0.995
 
 ### Best Parameters:
-```python
-{
+
   'learning_rate': 0.1,
   'max_depth': 4,
   'n_estimators': 200
-}
 
 ### Feature Importance (Top Drivers):
+
 - Unit Price (dominant)
 - Units Sold
 - Month of Transaction
